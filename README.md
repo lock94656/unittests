@@ -46,13 +46,13 @@ To set up the project locally, you need to install (if not already the case) som
   ```
   
 
-## To run the programm mymath
+## To run the program mymath
 
   ```sh
   python mymath.py
   ```
 
-## To run the programm testmymath
+## To run the program testmymath
 
   ```sh
   python testmymath.py -v
