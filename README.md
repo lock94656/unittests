@@ -1,4 +1,4 @@
-#Unittests
+# Unittests
 
 Experimenting with unit tests
 
@@ -38,12 +38,12 @@ To set up the project locally, you need to install (if not already the case) som
 
 
 
-##To generate documentation of testmymath :
+## To generate documentation of testmymath :
   ```sh
   python -m pydoc -w testmymath
   ```
   
-##To generate documentation of mymath :
+## To generate documentation of mymath :
   ```sh
   python -m pydoc -w mymath
   ```
