@@ -34,9 +34,6 @@ To set up the project locally, you need to install (if not already the case) som
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## To generate documentation of testmymath :
   ```sh
@@ -48,6 +45,20 @@ To set up the project locally, you need to install (if not already the case) som
   python -m pydoc -w mymath
   ```
   
+
+## To run the programm mymath
+
+  ```sh
+  python mymath.py
+  ```
+
+## To run the programm testmymath
+
+  ```sh
+  python testmymath.py
+  ```
+
+
 
 
 <!-- LICENSE -->
