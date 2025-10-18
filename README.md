@@ -55,7 +55,7 @@ To set up the project locally, you need to install (if not already the case) som
 ## To run the programm testmymath
 
   ```sh
-  python testmymath.py
+  python testmymath.py -v
   ```
 
 
